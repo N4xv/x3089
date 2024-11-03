@@ -1,5 +1,6 @@
-Astra
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x3089&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x3089&theme=radical)
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
