@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Aquí puedes encontrar algunos de los proyectos en los que estoy trabajando y todo lo que estoy aprendiendo. Si te interesa lo que hago, ¡no dudes en seguirme!
 
-<div align="right">
+<div align="center">
   <img src="https://count.getloli.com/get/@FBIK." alt="Profile Views"/>
 </div>
 
@@ -30,10 +30,6 @@
   - ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23EE0000?style=flat-square&logo=kali&logoColor=white)
   - ![Metasploit](https://img.shields.io/badge/Metasploit-%234C1F24?style=flat-square&logo=metasploit&logoColor=white)
   - ![Wireshark](https://img.shields.io/badge/Wireshark-%238E3A3A?style=flat-square&logo=wireshark&logoColor=white)
-
-## 📈 Estadísticas de mi perfil:
-![Contador de visualizaciones](https://img.shields.io/badge/visitas-👀%20%23123456?style=for-the-badge&logo=github&color=grey) 
-
 ## 🔗 Conéctate conmigo:
 [![GitHub](https://img.shields.io/badge/GitHub-x3089%20-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/x3089)
 [![Discord](https://img.shields.io/badge/Discord-Astra%231234-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1260165451091148905)
