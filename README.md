@@ -1,4 +1,23 @@
-# 👋 ¡Hola soy **Astra**!
+<style>
+  #greeting {
+    display: inline-block;
+    animation: moveText 3s infinite;
+  }
+
+  @keyframes moveText {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(10px); }
+    100% { transform: translateX(0); }
+  }
+
+  #view-counter {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+</style>
+
+# 👋 <span id="greeting">¡Hola soy <strong>Astra</strong>!</span>
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Aquí puedes encontrar algunos de los proyectos en los que estoy trabajando y todo lo que estoy aprendiendo. Si te interesa lo que hago, ¡no dudes en seguirme!
 
@@ -36,7 +55,8 @@
 
 ✨ ¡Estoy siempre buscando mejorar y aprender! Si tienes alguna idea o quieres colaborar, no dudes en ponerte en contacto conmigo.  
 ¡Nos vemos por ahí! 💥
-<div align="center">
+
+<div id="view-counter" align="center">
   <img src="https://count.getloli.com/get/@FBIK." alt="Profile Views"/>
 </div>
 
