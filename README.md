@@ -36,7 +36,8 @@
 
 ✨ ¡Estoy siempre buscando mejorar y aprender! Si tienes alguna idea o quieres colaborar, no dudes en ponerte en contacto conmigo.  
 ¡Nos vemos por ahí! 💥
-### Hi there 👋
+<div align="center">
+  <img src="https://count.getloli.com/get/@FBIK." alt="Profile Views"/>
+</div>
 
-username=FBIKdot&show_icons=true&theme=dark"alt="Most Used Languages"/></div><div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=FBIKdot&show_icons=true&theme=dark"alt="GitHub Stats"/></a></div><div align="center"></div><div align="center"><img src="https://count.getloli.com/get/@FBIK."alt="Profile Views"/></div></details>
 
