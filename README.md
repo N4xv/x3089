@@ -12,11 +12,20 @@
 
 ## 🖥️ Lenguajes y tecnologías aprendidas:
 - **Lenguajes**:
-  - HTML, CSS, JavaScript, Java, C++, Python, React
+  - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%2337769E?style=flat-square&logo=python&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
 - **Herramientas**:
-  - Linux, Ubuntu
+  - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
 - **Hacking Ético**:  
-  - Herramientas utilizadas en ciberseguridad.
+  - ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23EE0000?style=flat-square&logo=kali&logoColor=white)
+  - ![Metasploit](https://img.shields.io/badge/Metasploit-%234C1F24?style=flat-square&logo=metasploit&logoColor=white)
+  - ![Wireshark](https://img.shields.io/badge/Wireshark-%238E3A3A?style=flat-square&logo=wireshark&logoColor=white)
 
 ## 📈 Estadísticas de mi perfil:
 ![Contador de visualizaciones](https://img.shields.io/badge/visitas-👀%20%23123456?style=for-the-badge&logo=github&color=grey) 
@@ -24,9 +33,6 @@
 ## 🔗 Conéctate conmigo:
 [![GitHub](https://img.shields.io/badge/GitHub-x3089%20-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/x3089)
 [![Discord](https://img.shields.io/badge/Discord-Astra%231234-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1260165451091148905)
-
-## 🖼️ Mi imagen:
-![Imagen Personalizada](https://co.pinterest.com/pin/589408670016129616/) 
 
 ✨ ¡Estoy siempre buscando mejorar y aprender! Si tienes alguna idea o quieres colaborar, no dudes en ponerte en contacto conmigo.  
 ¡Nos vemos por ahí! 💥
