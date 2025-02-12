@@ -1,22 +1,24 @@
-<h1 align="center">Hola 👋, soy Astra</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de España</h3>
+# 👋 ¡Hola soy **Astra**!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x3089&label=Profile%20views&color=0e75b6&style=flat" alt="x3089" /> </p>
+¡Bienvenido a mi perfil de GitHub! 🚀 Aquí puedes encontrar algunos de los proyectos en los que estoy trabajando y todo lo que estoy aprendiendo. Si te interesa lo que hago, ¡no dudes en seguirme!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x3089" alt="x3089" /></a> </p>
+## 💻 Proyectos actuales:
+- **Desarrollo de una app** 📱  
+  Estoy trabajando en una app que maneja grandes cantidades de datos. ¡Mantente atento para más detalles!
 
-- 🔭 Actualmente estoy trabajando en **varios proyectos**
+## 🧠 Aprendiendo:
+- **Autodidacta en Ciberseguridad y Hacking Ético** 🔐  
+  Actualmente estoy aprendiendo sobre ciberseguridad y hacking ético. Si tienes experiencia o necesitas ayuda, ¡no dudes en ponerte en contacto!
 
-- 🌱 Actualmente estoy aprendiendo **varios lenguajes de programación**
+## 📈 Estadísticas de mi perfil:
+¡Mira lo que está pasando en mi perfil!
 
-<h3 align="left">Conéctate con yo:</h3>
-<p align="left">
-<a href="https://dev.to/astra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="astra" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/realdonaldtrump/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/realdonaldtrump/" height="30" width="40" /></a>
-<a
-<a href="https://discord.gg/https://discord.com/users/1260165451091148905" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.com/users/1260165451091148905" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1260165451091148905" height="30" width="40" /></a>
-</p>
+![Contador de visualizaciones](https://img.shields.io/badge/visitas-👀%20%23123456?style=for-the-badge&logo=github&color=grey) 
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" ancho="40" alto="40"/> </a> <a href="https://www.w3schools.com/css/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" ancho="40" alto="40"/> </a> <a href="https://dotnet.microsoft.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" ancho="40" alto="40"/> </a> <a href="https://www.electronjs.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" ancho="40" alto="40"/> </a> <a href="https://git-scm.com/" destino="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="40" alto="40"/> </a> <a href="https://www.php.net" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https://www.postgresql.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>//www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="viento de cola" ancho="40" alto="40"/> </a> </p>//www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="viento de cola" ancho="40" alto="40"/> </a> </p>
+## 🔗 Conéctate conmigo:
+- GitHub: [@x3089](https://github.com/x3089)  
+- Discord: [@Astra](https://discord.com/users/1260165451091148905) 
+
+✨ ¡Estoy siempre buscando mejorar y aprender! Si tienes alguna idea o quieres colaborar, no dudes en ponerte en contacto conmigo.  
+¡Nos vemos por ahí! 💥
 
