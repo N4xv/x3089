@@ -7,6 +7,8 @@
 </div>
 
 ## 💻 Proyectos actuales:
+- **Extraccion de Datos** 🦇
+  Actualmente se encuentra en privado, hasta mejorar el codigo de implementacion para obtener datos mediante un ataque DDos.
 - **Desarrollo de una app** 📱  
   Estoy trabajando en una app que maneja grandes cantidades de datos. ¡Mantente atento para más detalles!
 
