@@ -35,4 +35,5 @@
 ## 🔗 Conéctate conmigo:
 [![GitHub](https://img.shields.io/badge/GitHub-x3089%20-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/x3089)
 [![Discord](https://img.shields.io/badge/Discord-Astra%231234-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1260165451091148905)
+.
 
