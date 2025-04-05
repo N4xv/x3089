@@ -1,38 +1,46 @@
-# 👋 ¡Hola soy **Astra**! 
+<!-- README.md con los íconos personalizados y enlaces funcionales -->
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Aquí puedes encontrar algunos de los proyectos en los que estoy trabajando y todo lo que estoy aprendiendo. Si te interesa lo que hago, ¡no dudes en seguirme!
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/emojis/1356328082109239528.png?size=96" height="35"/>
+  <span>Astra // x3089</span>
+  <img src="https://cdn.discordapp.com/emojis/1344981169799692430.png?size=96" height="35"/>
+</h1>
 
-<div align="center">
-  <img src="https://count.getloli.com/get/@FBIK." alt="Profile Views"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Developer+%F0%9F%92%BB;Cyber+Builder+%F0%9F%94%A5;Signal+Over+Noise" alt="Typing SVG" />
+</p>
 
-## 💻 Proyectos actuales:
-- **Extraccion de Datos** 🦇
-  Actualmente se encuentra en privado, hasta mejorar el codigo de implementacion para obtener datos mediante un ataque DDos.
-- **Desarrollo de una app** 📱  
-  Estoy trabajando en una app que maneja grandes cantidades de datos. ¡Mantente atento para más detalles!
-
-## 🧠 Aprendiendo:
-- **Autodidacta en Ciberseguridad y Hacking Ético** 🔐  
-  Actualmente estoy aprendiendo sobre ciberseguridad y hacking ético. Si tienes experiencia o necesitas ayuda, ¡no dudes en ponerte en contacto!
-
-## 🖥️ Lenguajes y tecnologías aprendidas:
-- **Lenguajes**:
-  - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
-  - ![Python](https://img.shields.io/badge/Python-%2337769E?style=flat-square&logo=python&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
-- **Herramientas**:
-  - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
-- **Hacking Ético**:  
-  - ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23EE0000?style=flat-square&logo=kali&logoColor=white)
-  - ![Metasploit](https://img.shields.io/badge/Metasploit-%234C1F24?style=flat-square&logo=metasploit&logoColor=white)
-  - ![Wireshark](https://img.shields.io/badge/Wireshark-%238E3A3A?style=flat-square&logo=wireshark&logoColor=white)
-## 🔗 Conéctate conmigo:
-[![GitHub](https://img.shields.io/badge/GitHub-x3089%20-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/x3089)
-[![Discord](https://img.shields.io/badge/Discord-Astra%231234-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1344058511163916381)
 ---
+
+### 🧠 STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bash,sqlite&theme=dark" />
+</p>
+
+---
+
+### 🌐 CONTACT
+
+<p align="center">
+  <!-- Instagram icon -->
+  <a href="https://www.instagram.com/lvs.6n" target="_blank">
+    <img src="https://github.com/user-attachments/assets/882b75e3-fbe4-4689-a625-8a9655dfe82b" height="32" />
+  </a>
+  
+  <!-- Discord icon -->
+  <a href="https://discord.com/users/1344058511163916381" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5fc12883-a26c-481a-8c2a-f5022cd48990" height="32" />
+  </a>
+  
+  <!-- Website icon (Black Word) -->
+  <a href="https://x3089.github.io/" target="_blank">
+    <img src="https://cdn.discordapp.com/emojis/1356374956325208104.png?size=96" height="32" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=NO+ORIGIN+•+NO+LIMIT+•+JUST+CODE;Unstoppable+Developer+🚀;Code+is+my+life+💻" alt="Typing SVG" />
+</p>
+
