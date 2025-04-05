@@ -13,8 +13,9 @@
 ### 🧠 STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bash,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bash,sqlite,linux,git,docker,vscode,go,rust,github,powershell&theme=dark" />
 </p>
+
 
 ---
 
