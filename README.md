@@ -42,7 +42,7 @@
 
 ---
 
-### 💬 FRASE MOTIVADORA
+### 💬 ASTRA
 
 <p align="center">
   <blockquote style="font-family: 'Courier New', monospace; font-size: 18px; font-style: italic; color: #ecf0f1; background-color: #34495e; padding: 15px 25px; border-left: 5px solid #e74c3c; border-radius: 5px; width: 70%; text-align: center;">
