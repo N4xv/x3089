@@ -26,19 +26,26 @@
     <img src="https://github.com/user-attachments/assets/5fc12883-a26c-481a-8c2a-f5022cd48990" height="32" />
   </a>
   
- 
   <a href="https://discord.com/users/1344058511163916381" target="_blank">
     <img src="https://github.com/user-attachments/assets/882b75e3-fbe4-4689-a625-8a9655dfe82b" height="32" />
   </a>
   
- 
   <a href="https://x3089.github.io/" target="_blank">
     <img src="https://cdn.discordapp.com/emojis/1356374956325208104.png?size=96" height="32" />
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=NO+ORIGIN+•+NO+LIMIT+•+JUST+CODE;Unstoppable+Developer+🚀;Code+is+my+life+💻" alt="Typing SVG" />
 </p>
 
+---
+
+### 💬 FRASE MOTIVADORA
+
+<p align="center">
+  <blockquote style="font-family: 'Courier New', monospace; font-size: 18px; font-style: italic; color: #ecf0f1; background-color: #34495e; padding: 15px 25px; border-left: 5px solid #e74c3c; border-radius: 5px; width: 70%; text-align: center;">
+    "Para ser relativamente sinceros, no tengo ningún título que verifique o convalide la capacidad intelectual que tengo de convertir a código todo lo que veo, 
+    pero Leonardo Da Vinci tampoco tenía un título en artes. Simplemente soy un joven de 18 años, autodidacta, que cuando duermo ve códigos en todas partes."
+  </blockquote>
+</p>
