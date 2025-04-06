@@ -47,6 +47,6 @@
 <p align="center">
   <blockquote style="font-family: 'Courier New', monospace; font-size: 18px; font-style: italic; color: #ecf0f1; background-color: #34495e; padding: 15px 25px; border-left: 5px solid #e74c3c; border-radius: 5px; width: 70%; text-align: center;">
     "Para ser relativamente sinceros, no tengo ningún título que verifique o convalide la capacidad intelectual que tengo de convertir a código todo lo que veo, 
-    pero Leonardo Da Vinci tampoco tenía un título en artes. Simplemente soy un joven de 18 años, autodidacta, que cuando duermo ve códigos en todas partes."
+    pero Leonardo Da Vinci tampoco tenía un título en artes. Simplemente soy un joven de 18 años, autodidacta, que cuando duerme ve códigos en todas partes."
   </blockquote>
 </p>
