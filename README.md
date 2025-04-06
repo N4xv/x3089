@@ -50,3 +50,14 @@
     pero Leonardo Da Vinci tampoco tenía un título en artes. Simplemente soy un joven de 18 años, autodidacta, que cuando duerme ve códigos en todas partes."
   </blockquote>
 </p>
+
+---
+
+### 👁️ VISITAS AL PERFIL
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x3089&label=👁️+Vistas+al+Perfil&color=00ff00&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
