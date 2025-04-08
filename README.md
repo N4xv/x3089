@@ -22,12 +22,7 @@
 ### 🌐 CONTACT
 
 <p align="center">
-  
-  <a href="https://www.instagram.com/lvs.6n" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5fc12883-a26c-481a-8c2a-f5022cd48990" height="32" />
-  </a>
-  
-  <a href="https://discord.com/users/1344058511163916381" target="_blank">
+   <a href="https://discord.com/users/1344058511163916381" target="_blank">
     <img src="https://github.com/user-attachments/assets/882b75e3-fbe4-4689-a625-8a9655dfe82b" height="32" />
   </a>
   
