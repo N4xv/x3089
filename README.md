@@ -35,7 +35,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=NO+ORIGIN+•+NO+LIMIT+•+JUST+CODE;Unstoppable+Developer+🚀;Code+is+my+life+💻" alt="Typing SVG" />
 </p>
 
----
+--
 
 ### 💬 ASTRA
 
