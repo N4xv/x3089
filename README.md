@@ -1,61 +1,34 @@
-<h1 align="center">
-  <img src="https://cdn.discordapp.com/emojis/1356328082109239528.png?size=96" height="35"/>
-  <span>Astra // x3089</span>
-  <img src="https://cdn.discordapp.com/emojis/1344981169799692430.png?size=96" height="35"/>
-</h1>
+<h1 align="center">👋 Hola, soy Astra</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Developer+%F0%9F%92%BB;Cyber+Builder+%F0%9F%94%A5;Signal+Over+Noise" alt="Typing SVG" />
+<br>
+
+<div align="center">
+  <div style="border: 2px solid #444; border-radius: 20px; padding: 20px 40px; display: inline-block; background-color: #121212; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); transition: all 0.3s ease-in-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" title="VSCode"/>
+  </div>
+</div>
+
+<br><br>
+
+<p align="right">
+  Desarrollado por <a href="https://x3089.github.io/"><strong style="color:#007BFF">@x3089</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=x3089&label=👁️+Vistas+al+perfil&color=00ff00&style=flat-square" alt="Profile views" />
 </p>
 
----
-
-### 🧠 STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,linux,git,vscode,github,powershell&theme=dark" />
-</p>
 
 
-----
 
-### 🌐 CONTACT
-
-<p align="center">
-   <a href="https://discord.com/users/1344058511163916381" target="_blank">
-    <img src="https://github.com/user-attachments/assets/882b75e3-fbe4-4689-a625-8a9655dfe82b" height="32" />
-  </a>
-  
-  <a href="https://x3089.github.io/" target="_blank">
-    <img src="https://cdn.discordapp.com/emojis/1356374956325208104.png?size=96" height="32" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=NO+ORIGIN+•+NO+LIMIT+•+JUST+CODE;Unstoppable+Developer+🚀;Code+is+my+life+💻" alt="Typing SVG" />
-</p>
-
---
-
-### 💬 ASTRA
-
-<p align="center">
-  <blockquote style="font-family: 'Courier New', monospace; font-size: 18px; font-style: italic; color: #ecf0f1; background-color: #34495e; padding: 15px 25px; border-left: 5px solid #e74c3c; border-radius: 5px; width: 70%; text-align: center;">
-    "Para ser relativamente sinceros, no tengo ningún título que verifique o convalide la capacidad intelectual que tengo de convertir a código todo lo que veo, 
-    pero Leonardo Da Vinci tampoco tenía un título en artes. Simplemente soy un joven de 18 años, autodidacta, que cuando duerme ve códigos en todas partes."
-  </blockquote>
-</p>
-
----
-
-### 👁️ VISITAS AL PERFIL
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x3089&label=👁️+Vistas+al+Perfil&color=00ff00&style=flat-square" alt="Profile views" />
-</p>
-
----
-### 🖤 MI DISCORD
-
-<a href="https://discord.com/users/1344058511163916381"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1344058511163916381?bg=00000000" /></a>
 
