@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Astra</h1>
+<h1 align="center">👋 Hola, soy N4x</h1>
 
 <br>
 
@@ -23,9 +23,9 @@
 <br><br>
 
 <p align="right">
-  Desarrollado por <a href="https://x3089.github.io/"><strong style="color:#007BFF">@x3089</strong></a>
+  Desarrollado por <a href="https://doxbin.net"><strong style="color:#007BFF">@N4xv</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=x3089&label=👁️+Vistas+al+perfil&color=00ff00&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=N4xv&label=👁️+Vistas+al+perfil&color=00ff00&style=flat-square" alt="Profile views" />
 </p>
 
 
